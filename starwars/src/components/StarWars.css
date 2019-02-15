@@ -1,0 +1,13 @@
+.char-card{
+    background: #3F2A1E;
+    border-radius: 10px;
+    width: 400px;
+    margin-bottom: 20px;
+    color: #B9D0E9;
+}
+
+.flexed-cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
